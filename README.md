@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains Python code demonstrating various agentic workflow patterns using the Gemini 2.0 API and the Google Gen AI SDK. These examples are inspired by the "Building Effective Agents" [Building effective agents](https://www.anthropic.com/research/building-effective-agents) article from Anthropic, adapted for the Google Gemini platform.
+This repository contains Python code demonstrating various agentic workflow patterns using the Gemini 2.0 API and the Google Gen AI SDK. These examples are inspired by the [Building effective agents](https://www.anthropic.com/research/building-effective-agents) article from Anthropic, adapted for the Google Gemini platform.
 
 ## Overview
 
