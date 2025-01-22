@@ -48,14 +48,6 @@ The following patterns are implemented:
         GEMINI_API_KEY=your_api_key_here
         ```
 
-### Running the Code
-
-Execute the main Python file:
-
-```bash
-python agent.py
-```
-
 ## License
 
 This project is licensed under the MIT License
